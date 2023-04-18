@@ -12,5 +12,9 @@ Esse é um script feito em python3 que faz um dump das informções do número  
 ``pip install -r requeriments.txt``<br />
 ``python3 phone.py``<br />
 
+ou
+
+``sudo make install``
+
 ## Licença
 Este projeto está licenciado sob a [GNU General Public License v3.0](LICENSE).
