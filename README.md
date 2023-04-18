@@ -2,7 +2,7 @@
 Esse é um script feito em python3 que faz um dump das informções do número  de telefone passado
 
 <!--IMG-->
-<img src="https://github.com/Pauloxc6/phone_info/blob/main/img/1.png" width="700px">
+<img src="https://github.com/Pauloxc6/phone_info/blob/main/img/img1.png" width="700px">
 
 ## Instalação
 
