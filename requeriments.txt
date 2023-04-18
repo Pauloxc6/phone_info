@@ -1,0 +1,4 @@
+getmac==0.9.3
+pyfiglet==0.8.post1
+datetime==5.1
+phonenumbers==8.13.9
