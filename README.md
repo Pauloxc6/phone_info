@@ -1,5 +1,5 @@
 # phone_info
-Esse é um script feito em python3 que faz um dump das informções do número  de telefone passado
+Esse é um script feito em python3 que faz um dump das informações do número  de telefone passado
 
 <!--IMG-->
 <img src="https://github.com/Pauloxc6/phone_info/blob/main/img/img1.png" width="700px">
